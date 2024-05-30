@@ -1,0 +1,10 @@
+body{
+  background-color: grey;
+}
+
+input:focus,textarea:focus{
+    outline: none !important;
+}
+
+
+

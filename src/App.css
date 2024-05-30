@@ -1,5 +1,12 @@
-*{
+* {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+}
+.search::placeholder {
+  color: white !important;
+}
+.input {
+  background-color: transparent !important;
+  border: 2px solid black !important;
 }

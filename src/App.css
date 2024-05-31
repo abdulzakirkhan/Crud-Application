@@ -10,3 +10,18 @@
   background-color: transparent !important;
   border: 2px solid black !important;
 }
+
+.custmodal {
+  background-color: #B9d;
+  position: fixed !important;
+  z-index: 999;
+  width: 60%;
+  left: 20%;
+}
+.custbadge{
+  width: 25px;
+  height: 25px;
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+}

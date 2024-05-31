@@ -7,4 +7,99 @@ input:focus,textarea:focus{
 }
 
 
+:root{
+  --title-color:"#67Fb";
+  --middle-color:"#B783fe";
+  --gdt-color:rgba(red,green);
+
+}
+
+.title-color{
+  color: var(--title-color);
+  background-color: var(--gdt-color);
+
+}
+
+.heading-color{
+  color: var(--middle-color);
+}
+
+.span-color{
+  color: #898989;
+}
+
+.h1,.h6{
+  color: #e7b8;
+}
+
+.pink{
+  color: pink;
+}
+
+.red{
+  color: rgb(221, 50, 50);
+}
+.orange{
+  color: orange;
+}
+
+
+.title-color{
+  color: var(--title-color);
+  background-color: var(--gdt-color);
+
+}
+
+.heading-color{
+  color: var(--middle-color);
+}
+
+.span-color{
+  color: #898989;
+}
+
+.h1,.h6{
+  color: #e7b8;
+}
+
+.pink{
+  color: pink;
+}
+
+.red{
+  color: rgb(221, 50, 50);
+}
+.orange{
+  color: orange;
+}
+
+
+.title-color{
+  color: var(--title-color);
+  background-color: var(--gdt-color);
+
+}
+
+.heading-color{
+  color: var(--middle-color);
+}
+
+.span-color{
+  color: #898989;
+}
+
+.h1,.h6{
+  color: #e7b8;
+}
+
+.pink{
+  color: pink;
+}
+
+.red{
+  color: rgb(221, 50, 50);
+}
+.orange{
+  color: orange;
+}
 
